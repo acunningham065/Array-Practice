@@ -1,0 +1,9 @@
+C:\Users\DevUser\Documents\Visual Studio 2013\Projects\Array Practice\Array Practice\bin\Debug\Array Practice.exe.config
+C:\Users\DevUser\Documents\Visual Studio 2013\Projects\Array Practice\Array Practice\bin\Debug\Array Practice.exe
+C:\Users\DevUser\Documents\Visual Studio 2013\Projects\Array Practice\Array Practice\bin\Debug\Array Practice.pdb
+C:\Users\DevUser\Documents\Visual Studio 2013\Projects\Array Practice\Array Practice\obj\Debug\Array Practice.csprojResolveAssemblyReference.cache
+C:\Users\DevUser\Documents\Visual Studio 2013\Projects\Array Practice\Array Practice\obj\Debug\Array Practice.exe
+C:\Users\DevUser\Documents\Visual Studio 2013\Projects\Array Practice\Array Practice\obj\Debug\Array Practice.pdb
+F:\Not Software\AS Level\SSD\Projects\Console Applications\Array Practice\Array Practice\bin\Debug\Array Practice.exe.config
+F:\Not Software\AS Level\SSD\Projects\Console Applications\Array Practice\Array Practice\obj\Debug\Array Practice.exe
+F:\Not Software\AS Level\SSD\Projects\Console Applications\Array Practice\Array Practice\obj\Debug\Array Practice.pdb
